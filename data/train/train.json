@@ -1,0 +1,17 @@
+{
+  "type": "text2text",
+  "instances": [
+    {
+      "input": "SAMPLE_INPUT_1",
+      "output": "SAMPLE_OUTPUT_1"
+    },
+    {
+      "input": "SAMPLE_INPUT_2",
+      "output": "SAMPLE_OUTPUT_2"
+    },
+    {
+      "input": "SAMPLE_INPUT_3",
+      "output": "SAMPLE_OUTPUT_3"
+    }
+  ]
+}
